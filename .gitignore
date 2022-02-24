@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+name = "aftab"
+version = "RStudio - in writing"
+
+print(name)
+print("these lines has been written in RStudio")
